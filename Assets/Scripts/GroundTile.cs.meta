@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6418e30709e6401bbc4f07965d61a9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obstaclePrefab: {fileID: 4992023449563028977, guid: 03fcf49fa6c5ee64c89bdf0f84167bf1, type: 3}
+  - presentPrefab: {fileID: 6597148760389568246, guid: 420db5fdeab23f740b4394d2ad13801c, type: 3}
+  - fencePrefab: {fileID: 919132149155446097, guid: 7fccdf7099de328459b815d02c856577, type: 3}
+  - fenceColliderPrefab: {fileID: 3495058803571490959, guid: 92fc57f3bf7ae2f4ea2247d2736cf3d2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
